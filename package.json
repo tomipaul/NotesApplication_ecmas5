@@ -1,0 +1,31 @@
+{
+  "name": "notesapp_es5js_tests",
+  "version": "1.0.0",
+  "description": "A Note taking application in ES5",
+  "main": "NotesApplication.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomipaul/NotesApplication_ecmas5.git"
+  },
+  "keywords": [
+    "ES5",
+    "oop",
+    "tests"
+  ],
+  "author": "Oluwatomi Akande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomipaul/NotesApplication_ecmas5/issues"
+  },
+  "homepage": "https://github.com/tomipaul/NotesApplication_ecmas5#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
